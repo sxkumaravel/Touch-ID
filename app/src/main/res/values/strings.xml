@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Touch ID</string>
+    <string name="action_settings">Settings</string>
+    <string name="touch_id">Register Touch ID</string>
+    <string name="email">Email</string>
+    <string name="register">Register User</string>
+    <string name="validate">Validate User</string>
+    <string name="password">Password</string>
+
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+    <string name="sign_in">Sign in</string>
+
+
+</resources>
